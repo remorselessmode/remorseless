@@ -1,7 +1,7 @@
 
 {
     "latest": 228,
-    "version": "1.0 Release",
+    "version": "1.1 Release",
     "script_url": "https://github.com/remorselessmode/remorseless/raw/refs/heads/main/swagtools.luac",
     "changes": [
         "Скрипт успешно установлен и готов к работе!"
