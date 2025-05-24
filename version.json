@@ -1,0 +1,9 @@
+
+{
+    "latest": 228,
+    "version": "1.0 Release",
+    "script_url": "https://github.com/remorselessmode/remorseless/raw/refs/heads/main/swagtools.luac",
+    "changes": [
+        "test"
+    ]
+}
