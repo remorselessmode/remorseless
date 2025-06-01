@@ -2,5 +2,9 @@
 	"arizona_pc": {
 		"status": true,
 		"info": "Проблемы на стороне хостинга"
+	},
+	"arizona_mobile": {
+		"status": true,
+		"info": "Проблемы на стороне хостинга"
 	}
 }
